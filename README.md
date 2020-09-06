@@ -3,6 +3,8 @@ WA17 Majerle Field for Microsoft Flight Simulator
 
 Created by: Denny Atkin
 
+To download, click the green CODE button above and then click "Download ZIP"
+
 WA17 Majerle STOLport is a small airfield on a farm just north of Duvall, WA, a suburb in the foothills east of Seattle. It’s a small grass strip mowed out of farmland. In fact, it’s currently closed, as the Majerle family sold the farm and the new owner hasn’t kept up the strip maintenance. However, in our Flight Simulator world we prefer to keep it open as it’s a beautiful base from which to explore up and down the scenic Snoqualmie Valley. Head south to Fall City to see Snoqualmie Falls (from Twin Peaks), or North to Monroe, do a touch-and-go at First Air, and then fly East through the mountains.
 
 The AI-generated WA17 had significant issues, the biggest of which were tall trees at the end of the runway (which aren’t there in reality) that made it extremely difficult to land on. Also, the grass runway wasn’t visible at all, when in fact the lighter color from the mowed field makes it very visible from the air. These were corrected, and some objects were added to give the area more life. (Including a couple of Easter eggs for Duvall residents.) 
